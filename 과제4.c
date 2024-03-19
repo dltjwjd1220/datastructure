@@ -5,24 +5,24 @@ long int fact(int);
 
 int main() {
 	int n, result;
-	printf("\n Á¤¼ö¸¦ ÀÔ·ÂÇÏ¼¼¿ä : ");
+	printf("\n ì •ìˆ˜ë¥¼ ì…ë ¥í•˜ì„¸ìš” : ");
 	scanf("%d", &n);
 	result = fact(n);
-	printf("\n\n %dÀÇ ÆÑÅä¸®¾ó °ªÀº %ldÀÔ´Ï´Ù.\n", n, result);
+	printf("\n\n %dì˜ íŒ©í† ë¦¬ì–¼ ê°’ì€ %ldì…ë‹ˆë‹¤.\n", n, result);
 	getchar(); getchar();
 }
 
 long int fact(int n) {
 	int value;
 	if (n <= 1) {
-		printf("\n fact(1) ÇÔ¼ö È£Ãâ!");
-		printf("\n fact(1) °ª 1 ¹İÈ¯!");
+		printf("\n fact(1) í•¨ìˆ˜ í˜¸ì¶œ!");
+		printf("\n fact(1) ê°’ 1 ë°˜í™˜!");
 		return 1;
 	}
 	else {
-		printf("\n fact(%d) ÇÔ¼ö È£Ãâ!", n);
-		value = (n = fact(n - 1));
-		printf("\n fact(%d) °ª %ld ¹İÈ¯!", n, value);
+		printf("\n fact(%d) í•¨ìˆ˜ í˜¸ì¶œ!", n);
+		value = (n * fact(n - 1));
+		printf("\n fact(%d) ê°’ %ld ë°˜í™˜!", n, value);
 		return value;
 	}
 }
