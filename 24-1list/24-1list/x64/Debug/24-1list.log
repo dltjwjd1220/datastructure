@@ -1,0 +1,5 @@
+﻿  ex3_4.c
+  listS.c
+  코드를 생성하고 있습니다...
+C:\Users\이서정\source\repos\24-1list\24-1list\listS.c(39,1): warning C4716: 'deleteElement': 값을 반환해야 합니다.
+  24-1list.vcxproj -> C:\Users\이서정\source\repos\24-1list\x64\Debug\24-1list.exe
