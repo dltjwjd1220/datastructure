@@ -1,0 +1,9 @@
+﻿  avl.c
+  bst2.c
+  ex7_5.c
+D:\저술\C_자료구조_4판\source\MS_VisualStudio_2019_sourceCode\ch07\ch07_5\ex7_5.c(20,11): warning C4013: 'searchBST'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+D:\저술\C_자료구조_4판\source\MS_VisualStudio_2019_sourceCode\ch07\ch07_5\ex7_5.c(27,26): warning C4013: 'insertBSTNode'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+D:\저술\C_자료구조_4판\source\MS_VisualStudio_2019_sourceCode\ch07\ch07_5\ex7_5.c(27,40): warning C4047: '=': 'treeNode *'의 간접 참조 수준이 'int'과(와) 다릅니다.
+  node2.c
+  코드를 생성하고 있습니다...
+  ch07_5.vcxproj -> D:\저술\C_자료구조_4판\source\MS_VisualStudio_2019_sourceCode\ch07\Debug\ch07_5.exe
