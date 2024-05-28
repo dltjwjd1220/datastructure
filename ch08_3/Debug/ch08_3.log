@@ -1,0 +1,8 @@
+﻿  adjList.c
+D:\저술\C_자료구조_4판\source\MS_VisualStudio_2019_sourceCode\ch08\ch08_3\adjList.c(32,27): warning C4013: 'malloc'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+  DFS.c
+  ex8_3.c
+D:\저술\C_자료구조_4판\source\MS_VisualStudio_2019_sourceCode\ch08\ch08_3\ex8_3.c(7,25): warning C4013: 'malloc'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+  stackL.c
+  코드를 생성하고 있습니다...
+  ch08_3.vcxproj -> D:\저술\C_자료구조_4판\source\MS_VisualStudio_2019_sourceCode\ch08\Debug\ch08_3.exe
