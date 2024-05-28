@@ -1,0 +1,5 @@
+﻿  adjMatrix.c
+  ex8_1.c
+D:\저술\C_자료구조_4판\source\MS_VisualStudio_2019_sourceCode\ch08\ch08_1\ex8_1.c(6,36): warning C4013: 'malloc'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+  코드를 생성하고 있습니다...
+  ch08_1.vcxproj -> D:\저술\C_자료구조_4판\source\MS_VisualStudio_2019_sourceCode\ch08\Debug\ch08_1.exe
